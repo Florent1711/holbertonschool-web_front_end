@@ -83,3 +83,9 @@ W3C won’t pass - you can ignore it
     • create the nav tag inside the header tag
         - it should remain empty for now
 Does not need to pass W3C
+
+8-index.html - Copy the content of 7-index.html into 8-index.html
+    • create the level 1 heading inside your main before your sections
+        - put text Homepage in your heading tag
+Does not need to pass W3C
+
