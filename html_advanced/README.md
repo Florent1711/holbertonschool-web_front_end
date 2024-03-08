@@ -39,3 +39,15 @@ Favicons:
             - rel: icon
             - type: image/png
             - href: ./favicon.png
+
+3-index.html - Copy the content of 2-index.html into 3-index.html
+Header:
+    • create the header of your page between the open and close body tag
+    • put the text Header inside the header
+Main:
+    • create the main tag after the header tag
+        - put the text Main content inside your main tags
+Footer:
+    • create the footer tag after the main tag
+        - put the text Footer inside the footer tags
+
