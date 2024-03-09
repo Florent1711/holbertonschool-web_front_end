@@ -125,3 +125,17 @@ Latest news headings:
         -in the third article replace the text with a level 3 heading with text Bestiarum vero nullum iudicium puto.
 W3C does not need to pass here
 
+11-styleguide.html - Copy the content of 3-index.html into 11-styleguide.html
+    • change the title to Styleguide - Techium
+    • remove the text from header, main, and footer
+    • create a new <section> inside your main tag
+        -create a header in this section
+            -in the header add a level 2 heading with text Headings
+        -after the header:
+            -add a level 1 heading with text Heading level 1
+            -add a level 2 heading with text Heading level 2
+            -add a level 3 heading with text Heading level 3
+            -add a level 4 heading with text Heading level 4
+            -add a level 5 heading with text Heading level 5
+            -add a level 6 heading with text Heading level 6
+
