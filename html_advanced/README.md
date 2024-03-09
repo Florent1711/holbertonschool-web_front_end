@@ -207,3 +207,15 @@ W3C does not need to pass
         -create a div sibling to the header that wraps the rest of the content
 W3C does not need to pass
 
+17-index.html - Copy the content of 16-index.html into 17-index.html
+    • before the header add a line break and a comment saying Header to help with scanning your code
+    • before the main add a line break and a comment saying Main to help with scanning your code
+    • before the footer add a line break and a comment saying Footer to help with scanning your code
+    • before the Hero section add a line break and a comment saying Hero section
+    • before the Services section add a line break and a comment saying Services section
+    • before the Works section add a line break and a comment saying Works section
+    • before the About Us section add a line break and a comment saying About Us section
+    • before the Latest news section add a line break and a comment saying Latest news section
+    • before the Testimonials section add a line break and a comment saying Testimonials section
+    • before the Contact section add a line break and a comment saying Contact section
+Does not need to pass W3C
