@@ -98,3 +98,30 @@ Does not need to pass W3C
     • in the section tag with the the text Testimonials section, remove the text and create a level 2 heading with text Testimonials
     • in the section tag with the the text Contact section, remove the text and create a level 2 heading with text Contact
 W3C won’t pass - you can ignore it
+
+10-index.html - Copy the content of 9-index.html into 10-index.html
+Services headings:
+    • Inside the section containing the h2 heading Services, add these elements right after the h2:
+        -create a level 3 heading with text Design & Concept
+        -create a level 3 heading with text Digital Strategy
+        -create a level 3 heading with text Content Strategy
+        -create a level 3 heading with text UX Design
+        -create a level 3 heading with text Web Development
+        -create a level 3 heading with text Social Media
+Works headings:
+    • Inside the section containing the h2 heading Works:
+        -in the first article, replace the text with a level 3 heading with text Interior Design
+        -in the second article, replace the text with a level 3 heading with text Web Development
+        -in the third article, replace the text with a level 3 heading with text Personal Brand
+About Us headings:
+    • Inside the section containing the h2 heading About Us, after the h2 heading, create these elements in this order:
+        -a level 3 heading with text Who are we
+        -a level 3 heading with text Our culture
+        -a level 3 heading with text How we work
+Latest news headings:
+    • Inside the section containing the h2 heading Latest news:
+        -in the first article replace the text with a level 3 heading with text Hoc loco tenere se Triarius non potuit.
+        -in the second article replace the text with a level 3 heading with text Ut alios omittam, hunc appello, quem ille unum secutus est.
+        -in the third article replace the text with a level 3 heading with text Bestiarum vero nullum iudicium puto.
+W3C does not need to pass here
+
