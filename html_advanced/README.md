@@ -89,3 +89,12 @@ Does not need to pass W3C
         - put text Homepage in your heading tag
 Does not need to pass W3C
 
+9-index.html - Copy the content of 8-index.html into 9-index.html
+    • in the section tag with the the text Hero section, remove the text and create a level 2 heading with text We help you build your brand!
+    • in the section tag with the the text Services section, remove the text and create a level 2 heading with text Services
+    • in the section tag with the the text Works section, remove the text and create a level 2 heading with text Works
+    • in the section tag with the the text About section, remove the text and create a level 2 heading with text About Us
+    • in the section tag with the the text Latest news section, remove the text and create a level 2 heading with text Latest news
+    • in the section tag with the the text Testimonials section, remove the text and create a level 2 heading with text Testimonials
+    • in the section tag with the the text Contact section, remove the text and create a level 2 heading with text Contact
+W3C won’t pass - you can ignore it
