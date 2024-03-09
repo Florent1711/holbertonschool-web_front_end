@@ -224,3 +224,9 @@ Does not need to pass W3C
     • in the header, wrap the span with a link that redirects to the page at the root of your folder (/)
     • wrap the link with a div
 W3C does not need to pass
+
+about.html, latest_news.html, contact.html - Copy the content of 18-index.html into about.html, latest_news.html and contact.html
+    • change the title of about.html to replace Homepage with About
+    • change the title of latest_news.html to replace Homepage with Latest news
+    • change the title of contact.html to replace Homepage with Contact
+
