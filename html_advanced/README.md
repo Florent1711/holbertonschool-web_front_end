@@ -139,3 +139,30 @@ W3C does not need to pass here
             -add a level 5 heading with text Heading level 5
             -add a level 6 heading with text Heading level 6
 
+12-index.html - Copy the content of 10-index.html into 12-index.html
+About Us paragraphs:
+    • in the About Us section
+        -after the first h3 (who are we) create a paragraph with the text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum, omnis expedita! Eum, praesentium cumque accusantium rem, sit quaerat est nisi ratione, deserunt ducimus quidem iste dicta quibusdam atque maxime cum!
+        -after the second h3 create a paragraph with the text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum, omnis expedita! Eum, praesentium cumque accusantium rem, sit quaerat est nisi ratione, deserunt ducimus quidem iste dicta quibusdam atque maxime cum!
+        -after the third h3 create a paragraph with the text: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum, omnis expedita! Eum, praesentium cumque accusantium rem, sit quaerat est nisi ratione, deserunt ducimus quidem iste dicta quibusdam atque maxime cum!
+Latest news paragraphs:
+    • in the Latest news section
+        -in the first article
+            -create a paragraph with text Career before the heading
+            -create a paragraph with text Lorem ipsum dolor sit amet, consectetur adipiscing elit. Id Sextilius factum negabat. Quo tandem modo? At eum nihili facit; Quae contraria sunt his, malane? after the heading
+        -in the second article
+            -create a paragraph with text Digital Life before the heading
+            -create a paragraph with text Lorem ipsum dolor sit amet, consectetur adipiscing elit. Tum mihi Piso: Quid ergo? Tum ille: Ain tandem? Non autem hoc: igitur ne illud quidem. Sed quod proximum fuit non vidit. Nos commodius agimus. An nisi populari fama? after the heading
+        -in the third article
+            -create a paragraph with text Social before the heading
+            -create a paragraph with text Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non igitur bene. Quid enim est a Chrysippo praetermissum in Stoicis? Pugnant Stoici cum Peripateticis. Prioris generis est docilitas, memoria; Apparet statim, quae sint officia, quae actiones. after the heading
+Contact paragraph:
+    • in the Contact section after the heading
+        -create a paragraph with the text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Id Sextilius factum negabat. Quo tandem modo? At eum nihili facit; Quae contraria sunt his, malane?
+Additional paragraphs:
+    • below the level 2 Services heading add a paragraph with text We work with you
+    • below the level 2 Works heading add a paragraph with text Take a look in our portfolio
+    • below the level 2 About Us heading add a paragraph with text Everything about us
+    • below the level 2 Testimonials heading add a paragraph with text We are more than a digital company
+    • below the level 2 Contact heading add a paragraph with text We like to know new people
+Does not need to pass W3C
