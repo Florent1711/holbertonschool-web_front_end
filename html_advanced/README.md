@@ -319,3 +319,13 @@ W3C does not need to pass.
         -create a new section
             -create a header and inside it add a level 2 heading with the text Horizontal rule
             -after the header create a div and put a horizontal rule in it
+
+29-index.html - Copy the content of 27-index.html into 29-index.html
+    • in the Testimonials section
+        -in the first article
+            -replace the text with a blockquote with text I am completely blown away. Thanks to Techium, we've just launched our 5th website! and cite author Yuri Y.
+        -in the second article
+            -replace the text with a blockquote with text Thank you so much for your help. Techium company is awesome! and cite author Dorrie S.
+        -in the third article
+            -replace the text with a blockquote with text I love your system. Definitely worth the investment. I'd be lost without Techium company. and cite author Sven H.
+W3C does not need to pass
