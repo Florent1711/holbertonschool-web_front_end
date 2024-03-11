@@ -258,3 +258,12 @@ W3C won’t pass - you can ignore it
     • in the Contact section, after the div containing the paragraph
         -create a link to contact.html with text Get in touch
     Does not need to pass W3C
+
+23-index.html - Copy the content of 22-index.html into 23-index.html
+    • in the Services section
+        -in each level 3 heading, create a link to # around the text already in the heading
+    • in the Works section
+        -in each level 3 heading, create a link to # around the text already in the heading
+    • in the Latest news section
+        -in each level 3 heading, create a link to # around the text already in the heading
+Does not need to pass W3C
