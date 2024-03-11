@@ -282,3 +282,27 @@ W3C does not need to pass
             -link to # with text Terms of Use
             -link to # with text Privacy Policy
             -link to # with text Cookie Policy
+
+26-styleguide.html - Copy the content of 13-styleguide.html into 26-styleguide.html
+Example of unordered list:
+    • inside main after Paragraph section, add :
+        -a new line and a comment with text Lists
+        -after, create a new section with inside:
+            -create a header with inside a level 2 heading with the text Lists
+            -after the new header, create a div with inside:
+                -a level 3 heading with text Unordered
+                    under it, add an unordered list with these items: Dolor pulvinar etiam magna etiam., Sagittis adipiscing lorem eleifend., Felis enim feugiat dolore viverra.
+Example of ordered list:
+    • after previous unordered list, in the same div
+        -add a level 3 heading with text Ordered
+            -add an ordered list with these items:
+                1. Dolor pulvinar etiam magna etiam.
+                2. Sagittis adipiscing lorem eleifend.
+                3. Felis enim feugiat dolore viverra.
+Example of definition list:
+    • after previous ordered list, in the same div
+        -add a heading level 3 with text Definition
+        -add a definition list with these items:
+            1. Term: Definition List title, Definition: Definition text.
+            2. Term: Startup, Definition: A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.
+            3. Term: Water, Definition: A colorless, transparent, odorless liquid that forms the seas, lakes, rivers, and rain and is the basis of the fluids of living organisms.
