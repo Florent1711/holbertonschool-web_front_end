@@ -366,3 +366,14 @@ W3C does not need to pass
     </code>
     • create another div, in the new div add this paragraph of text with the correct HTML tag: Curabitur sit amet turpis cursus massa mollis highlighted. Duis finibus leo massa, eget dapibus erat finibus sed. Aenean condimentum sapien magna, eleifend highlighted mi consequat ut. Cras nec quam sed sapien ultricies highlighted ut sed metus. Each occurrence of the word highlighted should be highlighted.
 W3C does not need to pass
+
+Copy the content of 32-styleguide.html into 33-styleguide.html
+    • inside main after Typography section
+        -add a new line and a comment with text Table
+        -create a new section
+            -in the section create a header, in the header add a level 2 heading with the text Table
+            -after the header, create a table, reproduce in HTML the visual below
+https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2019/10/1348f88f2d78a5dee5d0.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20240311%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20240311T142031Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=8b83a2c1b7115473fc60f9045862ba817665a521ed32800809b955cbce936395
+The <th> tags containing Title, Director, Release Date should have a scope attribute set to col The <th> tags containing the names of the movies should have a scope attribute set to row
+
+Due to previous task, does not have to pass W3C
