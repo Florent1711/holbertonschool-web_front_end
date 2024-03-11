@@ -306,3 +306,9 @@ Example of definition list:
             1. Term: Definition List title, Definition: Definition text.
             2. Term: Startup, Definition: A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.
             3. Term: Water, Definition: A colorless, transparent, odorless liquid that forms the seas, lakes, rivers, and rain and is the basis of the fluids of living organisms.
+
+27-index.html - Copy the content of 25-index.html into 27-index.html
+    • in the footer between the two divs:
+        -add a horizontal rule
+        -after the horizontal rule add a paragraph with text © 2020 Techium, made with ♥ by students at Holberton School.
+W3C does not need to pass.
