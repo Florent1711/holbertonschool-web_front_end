@@ -329,3 +329,17 @@ W3C does not need to pass.
         -in the third article
             -replace the text with a blockquote with text I love your system. Definitely worth the investment. I'd be lost without Techium company. and cite author Sven H.
 W3C does not need to pass
+
+30-styleguide.html - Copy the content of 28-styleguide.html into 30-styleguide.html
+Example of inline quote:
+    • inside main after Horizontal rule section
+        -add a new line and a comment with text Blockquotes
+        -create a new section
+            -in the section create a header, in the header create a level 2 heading with text Blockquotes
+            -after the header, create a div
+                -in the div add a level 3 heading with the text Inline quote
+                -add an inline quote with the text Stay hungry. Stay foolish.
+Example of blockquote:
+    • after the inline quote div, create another div
+        -in the new div add a level 3 heading with the text Blockquote
+        -add a multiline quote with the text I will be the leader of a company that ends up being worth billions of dollars, because I got the answers. I understand culture. I am the nucleus. I think that’s a responsibility that I have, to push possibilities, to show people, this is the level that things could be at. and cite Kanye West, Musician
