@@ -493,3 +493,13 @@ W3C does not need to pass
             -display https://intranet-projects-files.s3.amazonaws.com/webstack/thumbnail.jpg when the video is downloading
             -provide an alternative text: Sorry, your browser doesn't support HTML5 video
 Due to an earlier task, does not need to pass W3C
+
+39-styleguide.html - Copy the content of 38-styleguide.html into 39-styleguide.html
+    • in main after Video section
+        -add a new line and a comment with text Audio
+        -create a section
+            -in the section create a header, in the header add a level 2 heading with the text Audio
+            -after the header add the following audio file: https://intranet-projects-files.s3.amazonaws.com/webstack/TroubleChapter8_64kb.mp3
+            -add controls to the audio player
+            -provide an alternative text: Sorry, your browser doesn't support audio element
+Due to an earlier task, does not need to pass W3C
