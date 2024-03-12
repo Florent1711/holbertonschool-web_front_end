@@ -1,11 +1,23 @@
+html {
+    scroll-behavior: smooth;
+}
+
 body {
-    color: #161616; /* Couleur d'avant-plan pour le corps */
-}
-
-a {
-    color: #161616; /* Couleur d'avant-plan pour tous les éléments d'ancrage */
-}
-
-.visually-hidden { 
-    /* Votre style ici pour les éléments avec la classe 'visually-hidden' */
-}
+    color: #161616;
+    }
+    
+    a {
+    color: #161616;
+    }
+    
+    .visually-hidden {
+    display: none;
+    }
+    
+    .card-category {
+    color: #D73953;
+    }
+    
+    .section-tagline {
+    color: #D73953;
+    }
