@@ -392,3 +392,15 @@ Copy the content of 33-styleguide.html into 34-styleguide.html
                 -add this text after the summary: Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
 Due to earlier task, does not have to pass W3C
 
+Copy the content of 31-index.html into 35-index.html
+    • in header
+        -find the span with the name of the website
+        -replace it with the image above
+        -make sure the image is in the same directory as all of your other files and that the file name is logo-black.png
+        -alt: Techium logo
+        -don’t forget to specify width of 160 and height of 40
+    • in footer, after the opening tag and before the address
+        -insert the logo image
+        -alt: Techium logo
+        -don’t forget to specify the width and height (same as in header)
+W3C does not need to pass
