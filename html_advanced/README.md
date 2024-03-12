@@ -482,3 +482,14 @@ Instagram icon
 </svg>
 W3C does not need to pass
 
+38-styleguide.html - Copy the content of 34-styleguide.html into 38-styleguide.html
+    • in main after the Details section
+        -add a new line and a comment with text Video
+        -create a section
+            -in the section create a header, in the header add a level 2 heading with the text Video
+            -after the header add the following video: https://intranet-projects-files.s3.amazonaws.com/webstack/BigBuckBunny.mp4
+            -add controls to the video
+            -ensure that the video does a loop
+            -display https://intranet-projects-files.s3.amazonaws.com/webstack/thumbnail.jpg when the video is downloading
+            -provide an alternative text: Sorry, your browser doesn't support HTML5 video
+Due to an earlier task, does not need to pass W3C
