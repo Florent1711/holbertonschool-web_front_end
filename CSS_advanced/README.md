@@ -16,3 +16,14 @@ styles/3-style.css - Based on styles/2-style.css:
     • Revisit the section-tagline and card-category declarations and reset their color to color-primary
     • Revisit the body and anchor declarations and reset their color to text-color
 Does not have to pass w3c
+
+styles/4-style.css - Based on styles/3-style.css:
+    • Targeting the root element, create 2 custom font-family properties font-family-base and font-family-title with the same list of fonts:
+        -set the first choice font as Helvetica Neue
+        -set the second choice font as Helvetica
+        -set the third choice font as Arial
+        -set the last choice font as sans-serif
+    • Set body‘s font-family to font-family-base
+    • Create a new declaration targeting all 6 levels of heading tags
+        -set its font-family to font-family-title
+Does not need to pass W3C
