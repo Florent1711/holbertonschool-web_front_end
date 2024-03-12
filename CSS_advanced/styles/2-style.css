@@ -1,0 +1,11 @@
+body {
+    color: #161616; /* Couleur d'avant-plan pour le corps */
+}
+
+a {
+    color: #161616; /* Couleur d'avant-plan pour tous les éléments d'ancrage */
+}
+
+.visually-hidden { 
+    /* Votre style ici pour les éléments avec la classe 'visually-hidden' */
+}
