@@ -5,3 +5,14 @@ Files : images/pic-about-01.jpg, images/pic-work-01.jpg, images/pic-work-02.jpg,
 
 styles/1-style.css - When scrolling is triggered on the html element itself, we’d like the behavior of the scroll to be as fluid as possible.
 
+styles/3-style.css - Based on styles/2-style.css:
+    • Target the root element and define the following custom properties:
+        -color-primary set to #d73953
+        -color-black set to #090909
+        -color-white set to #ffffff
+        -color-light-grey set to #f3f3f3
+        -color-dark-grey set to #353535
+        -text-color set to color-black
+    • Revisit the section-tagline and card-category declarations and reset their color to color-primary
+    • Revisit the body and anchor declarations and reset their color to text-color
+Does not have to pass w3c
