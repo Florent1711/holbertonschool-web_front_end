@@ -69,3 +69,11 @@ styles/10-style.css - Based on styles/9-style.css:
     • Just above the section-tagline declaration, create a new declaration targeting the class section-header
         -Set horizontal alignment of that class with section-header-align
 Does not need to pass w3c
+
+styles/11-style.css - Based on styles/10-style.css:
+    • Create a custom property section-tagline-transform and set it to uppercase
+    • Targeting the section-tagline class:
+        -Set the family of fonts to font-family-title
+        -By using the property section-tagline-transform, transform the text
+        -Set the weight of fonts to font-weight-bold
+Does not need to pass w3c
