@@ -46,3 +46,8 @@ styles/6-style.css - Based on styles/5-style.css
     • Set the boldness of fonts in the body to font-weight-regular
     • Set the boldness of fonts in the headings to font-weight-bold
 Does not need to pass W3C
+
+styles/7-style.css - Based on styles/6-style.css:
+    • Add Open Sans as the first choice font for font-family-base, with the previous fonts shifted down accordingly
+    • Add Raleway as the first choice font for font-family-title, with the previous fonts shifted down accordingly
+Does not need to pass w3c
