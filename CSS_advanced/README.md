@@ -59,3 +59,7 @@ styles/8-style.css - Based on styles/7-style.css:
         -line-height-big set to 1.8
     • Set the minimum height of line boxes in the body to line-height-base
 Does not need to pass w3c
+
+styles/9-style.css - Based on styles/8-style.css
+    • Style the anchor elements so the text isn’t decorated with anything
+Does not need to pass w3c
