@@ -77,3 +77,14 @@ styles/11-style.css - Based on styles/10-style.css:
         -By using the property section-tagline-transform, transform the text
         -Set the weight of fonts to font-weight-bold
 Does not need to pass w3c
+
+styles/12-style.css - Based on styles/11-style.css:
+    • Create the following custom properties:
+        -section-title-margin set to 0
+        -section-title-color set to color-black
+Just above the section-tagline declaration, create a new declaration targeting the section-title class
+    • Set the family of fonts to font-family-title
+    • Set the font size to font-size-xx-large
+    • Set the font weight to font-weight-bold
+    • Use the section-title-margin to set the margin
+    • Use the section-title-color to set the text color
