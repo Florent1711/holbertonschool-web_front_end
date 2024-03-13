@@ -51,3 +51,11 @@ styles/7-style.css - Based on styles/6-style.css:
     • Add Open Sans as the first choice font for font-family-base, with the previous fonts shifted down accordingly
     • Add Raleway as the first choice font for font-family-title, with the previous fonts shifted down accordingly
 Does not need to pass w3c
+
+styles/8-style.css - Based on styles/7-style.css:
+    • Targeting root, create the following custom properties:
+        -line-height-small set to 1.2
+        -line-height-base set to 1.5
+        -line-height-big set to 1.8
+    • Set the minimum height of line boxes in the body to line-height-base
+Does not need to pass w3c
