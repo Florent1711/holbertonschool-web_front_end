@@ -38,3 +38,11 @@ styles/5-style.css - Based on styles/4-style.css:
     • All fonts in the html element should be at 62.5% of their normal size
     • Any fonts in the body should have their sizes set to font-size-medium
 Does not need to pass W3C
+
+styles/6-style.css - Based on styles/5-style.css
+    • Targeting the root element, create the following custom properties:
+        -font-weight-regular set to 400
+        -font-weight-bold set to 700
+    • Set the boldness of fonts in the body to font-weight-regular
+    • Set the boldness of fonts in the headings to font-weight-bold
+Does not need to pass W3C
