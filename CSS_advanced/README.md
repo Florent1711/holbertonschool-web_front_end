@@ -63,3 +63,9 @@ Does not need to pass w3c
 styles/9-style.css - Based on styles/8-style.css
     • Style the anchor elements so the text isn’t decorated with anything
 Does not need to pass w3c
+
+styles/10-style.css - Based on styles/9-style.css:
+    • Create a new custom property section-header-align and set it to center
+    • Just above the section-tagline declaration, create a new declaration targeting the class section-header
+        -Set horizontal alignment of that class with section-header-align
+Does not need to pass w3c
