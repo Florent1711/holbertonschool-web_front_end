@@ -102,3 +102,7 @@ Does not need to pass w3c
 styles/14-style.css - Based on styles/13-style.css:
     Normalize your CSS file using necolas’ normalize.css with this version.
 Does not need to pass w3c
+
+styles/15-style.css - Based on styles/14-style.css:
+    Just before the styling for html, add a universal box sizing rule
+Does not need to pass w3c
