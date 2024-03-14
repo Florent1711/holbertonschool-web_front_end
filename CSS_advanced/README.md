@@ -292,3 +292,17 @@ Target the link inside the header-logo class
     • Set the horizontal position of the element using header-logo-link-left
 Does not have to pass w3c
 
+Based on styles/28-style.css
+Edit the nav-item-link-hover property by setting its value to the color-whitevariable
+Target the before pseudo elements of nav-link that is inside the nav
+    • Set the values of these elements to empty using content
+    • Absolutely position the targeted elements
+    • Set the vertical position to 0
+    • The horizontal position of the targeted elements should be 0
+    • Set the color of the background color of the targeted elements to the value color-white
+    • The width of the targeted elements should be set to 0
+    • Set the height to 20% of the root element value
+Target the before pseudo elements of nav-link when nav-item is hover and is inside nav
+    • Set the background color of the elements to the variable color-primary
+    • Set the width of the elements to 100%
+Does not have to pass w3c
