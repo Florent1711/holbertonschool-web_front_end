@@ -113,3 +113,18 @@ Target the container class and set the following:
     • 960px wide
     • evenly distribute the margins on both the left and and right side
 Does not need to pass w3c
+
+styles/17-style.css - Based on styles/16-style.css:
+    • Create the following custom properties:
+        -section-padding set to 5rem 0
+        -section-header-padding set to 0 0 3rem
+        -section-body-padding set to 0 0 3rem
+        -section-footer-padding set to 3rem 0 0
+        -section-footer-align set to center
+        -footer-padding set to 5rem 0 1rem
+    • Just before the section-header declaration, target the class section and set the padding on all 4 sides to section-padding
+    • Set .section-header‘s pad all 4 sides with section-header-padding
+    • Following the section-header declaration, target the section-body class, pad all 4 sides with section-body-padding
+    • Following the section-body declaration, target the section-footer class, pad all 4 sides with section-footer-padding and set the horizontal alignment with section-footer-align
+    • At the end of your style file, target the class footer, pad all 4 sides of the selected element with footer-padding
+Does not need to pass w3c
