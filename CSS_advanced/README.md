@@ -193,3 +193,11 @@ styles/21-style.css - Based on styles/20-style.css:
         -Hint: be mindful of specificity
 Remove references to these common properties for the individual col-1-3 and col-1-2 classes
 Does not need w3c
+
+styles/22-style.css - Based on styles/21-style.css:
+Style the data-section-theme=“dark” with these rules:
+    • Redefine the custom property text-color to the color-white
+    • Redefine the custom property section-title-color to color-white
+    • Set the background to the variable color-black
+Does not need to pass w3c
+
