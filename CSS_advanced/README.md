@@ -98,3 +98,7 @@ styles/13-style.css - Based on styles/12-style.css:
     • Directly after the hover state, target the active state for the link
         -Set the color of the background with the variable color-light-grey
 Does not need to pass w3c
+
+styles/14-style.css - Based on styles/13-style.css:
+    Normalize your CSS file using necolas’ normalize.css with this version.
+Does not need to pass w3c
