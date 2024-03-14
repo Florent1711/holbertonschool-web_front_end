@@ -128,3 +128,32 @@ styles/17-style.css - Based on styles/16-style.css:
     • Following the section-body declaration, target the section-footer class, pad all 4 sides with section-footer-padding and set the horizontal alignment with section-footer-align
     • At the end of your style file, target the class footer, pad all 4 sides of the selected element with footer-padding
 Does not need to pass w3c
+
+styles/18-style.css - Based on styles/17-style.css:
+    Targeting the navbar-menu class, let it float to the right
+    For the nav class:
+        -the margin on all sides should be set to 0
+        -the padding on all sides should be set to 0
+        -The styling on the list should not use anything
+        -center align the text
+    • For the nav-item class in nav class:
+        -set the family of fonts to nav-item-font-family
+        -set the boldness of fonts to nav-item-font-weight
+        -set the size of fonts to nav-item-font-size
+        -set the spacing between text characters to nav-item-letter-spacing
+        -set the display to nav-item-display
+        -set the margin on all sides to nav-item-margin
+    • For the nav-link class in nav class:
+        -set the display to block
+        -set the padding to half of the root element for top and bottom, and equal to the root element for left and right
+    • While hovering over the nav-link class in nav class, set their foreground color value to nav-item-link-hover
+    • Create the following custom properties:
+        -nav-item-font-family set to font-family-title
+        -nav-item-font-weight set to font-weight-bold
+        -nav-item-font-size set tofont-size-medium
+        -nav-item-letter-spacing set to 4% of the root element
+        -nav-item-display to inline-block
+        -nav-item-marginto 3 times the root element on the bottom and 0 elsewhere
+        -nav-item-link-hover set to color-primary
+Does not need to pass w3c
+
