@@ -178,3 +178,10 @@ styles/19-style.css - Based on styles/18-style.css:
         -set the foreground color to text-color
     • For all ul tag in the footer class, align the text to the right
 Does not need to pass w3c
+
+styles/20-style.css - Based on styles/19-style.css:
+Write a CSS rule that creates a new row after each instance of the class row with the following properties:
+    • no content
+    • displayed as a table
+    • do not allow any floating elements on either side
+Does not have to pass w3c
