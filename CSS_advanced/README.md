@@ -201,3 +201,11 @@ Style the data-section-theme=“dark” with these rules:
     • Set the background to the variable color-black
 Does not need to pass w3c
 
+styles/23-style.css - Based on styles/22-style.css:
+Style the footer-address class
+    • Set the color of the text to the text-color property
+Style the social-link class:
+    • Style it so that it renders as a block element
+Style the social-link class that also selects the svg children
+    • Fill in the color of the svg children with the text-color variable
+Does not have to pass w3c
