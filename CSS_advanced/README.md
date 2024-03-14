@@ -249,3 +249,17 @@ Add these selectors after the selector for anchor links in active state:
     • In [data-section-theme="dark"], add the variable
         -create a custom property button-color pointing to the variable color-white
 Does not have to pass w3c
+
+styles/26-style.css - Based on styles/25-style.css
+Add the card-testimonial selector
+    • Center align the text
+Target the card-avatar that is inside the card-testimonial
+    • Round the radius on all sides at 50%
+    • Set the width to 10x the root element
+    • Set the height to 10x the root element
+Target the <cite> HTML tag which is inside card-quote inside the card-testimonial
+    • Style as a block level element
+    • Pad the top with 1x the root element
+    • Set the foreground color value to the value of the color-primary variable
+Does not have to pass w3c
+
