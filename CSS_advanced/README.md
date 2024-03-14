@@ -273,3 +273,22 @@ Target the section-inner inside the section-hero
     • Add 10rem, 40rem, 2rem, and 0 to the padding on the top, right, bottom, left all in 1 rule
 Does not have to pass w3c
 
+styles/28-style.css - Based on styles/27-style.css
+Create these custom properties
+    • Name: header-padding, Value: 4rem 0 0
+    • Name: header-logo-position, Value: relative
+    • Name: header-logo-link-display, Value: inline-block
+    • Name: header-logo-link-position, Value: absolute
+    • Name: header-logo-link-top, Value: -1rem
+    • Name: header-logo-link-left, Value: 0
+Create a header class selector
+    • Pad the header with the value within the variable header-padding
+Create a header-logo class selector
+    • Position the header-logo with the value of the variable header-logo-position
+Target the link inside the header-logo class
+    • Render the display using the value of the variable header-logo-link-display
+    • Position the links with the value of the variable header-logo-link-position
+    • Set the vertical position of the element using header-logo-link-top
+    • Set the horizontal position of the element using header-logo-link-left
+Does not have to pass w3c
+
