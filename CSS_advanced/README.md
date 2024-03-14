@@ -106,3 +106,10 @@ Does not need to pass w3c
 styles/15-style.css - Based on styles/14-style.css:
     Just before the styling for html, add a universal box sizing rule
 Does not need to pass w3c
+
+styles/16-style.css - Based on styles/15-style.css:
+After the styles for .section-tagline,
+Target the container class and set the following:
+    • 960px wide
+    • evenly distribute the margins on both the left and and right side
+Does not need to pass w3c
